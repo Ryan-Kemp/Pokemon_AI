@@ -10,7 +10,7 @@ This project is my attempt at that. So far, I’ve built a virtual controller in
 
 # Current Progress
 - [x] Virtual controller implemented in Python for sending inputs to the game
-- [ ] Game state capture (planned)
+- [x] Game state capture 
 - [ ] Reinforcement learning agent (planned)
 - [ ] AI training loop (planned)
 - [ ] Performance tracking and metrics (planned)
