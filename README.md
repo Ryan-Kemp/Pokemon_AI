@@ -1,11 +1,7 @@
 # AI Pokemon Player
 
 ## About This Project
-Ever since I was a kid, I’ve loved playing Pokémon video games. I spent countless hours exploring regions, battling trainers, and trying to catch every Pokémon. Growing up with these games left me with a deep appreciation for their strategy, complexity, and charm.  
-
-At the same time, I’ve always been fascinated by machine learning and AI — how algorithms can learn, adapt, and constantly improve. I realized that combining these two passions could lead to a project I’m truly excited about: teaching an AI to play Pokémon… and eventually beat it.  
-
-This project is my attempt at that. So far, I’ve built a virtual controller in Python that allows a programmatic interface to the game, laying the groundwork for a machine learning agent to take control.
+As a kid, I loved playing Pokémon video games. I spent countless hours exploring regions, battling trainers, and trying to catch every Pokémon. Growing up with these games left me with a continuing appreciation for their strategy, complexity, and charm. In fact, the popularity of Pokémon (and related merchandising) has continued to grow and Pokémon is arguably now more popular than ever. I realized that combining these two interests could lead to an engaging machine learning project: teaching an AI to play Pokémon… and ultimately beat the current Pokémon champion.
 
 
 # Current Progress
